@@ -26,7 +26,7 @@ def inicio():
             <h1>Docker!</h1>
             <p>Trabalho de Sistemas Operacionais</p>
             <p>Professor: Guibson Krause</p>
-            <p>Alunos: Atos Gabriel, Amy Galvão, Dymylle charis/p>
+            <p>Alunos: Atos Gabriel, Amy Galvão, Dymylle charis <p>
             <h2 style="color: green;">Servidor funcionando!</h2>
         </body>
     </html>
